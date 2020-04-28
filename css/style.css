@@ -54,3 +54,10 @@
     bottom: 0px;
     z-index: 1;
 }
+.modal-header{
+    background:rgb(115, 73, 212) ;
+
+}
+.modal-body{
+       background: #ccbaee !important ;
+}
